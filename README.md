@@ -1,6 +1,7 @@
-<h1>Something about me</h1>
+<h1>Hi to every one who saw this!</h1>
 
 ```yaml
+Some basic information:
  Location: Canada 
  Career: High school student 
  Email: Flame.zyjd@gmail.com 
