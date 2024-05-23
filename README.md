@@ -1,15 +1,6 @@
-<p align="center"> <text=Hi to everyone who saw this>
-**Flamezyjd/Flamezyjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ```yaml
-* High school student *
+* Location: Canada *
+* Career: High school student *
+* Email: Flame.zyjd@gmail.com *
+* Learning phop and my sql *
 ```
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
